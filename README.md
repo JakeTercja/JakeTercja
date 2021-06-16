@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob Tercjak
-- 👀 I’m interested in Java,Spring,Angular,C#,C++, Unreal Engine 4.
-- 🌱 I’m currently learning Java, Spring
-- 💼 I’m looking work with: Java, Spring
+- 👀 I’m interested in Java, SQL, Spring and Hibernate
+- 🌱 I’m currently learning Java and SQL.
+- 💼 I’m looking work with: Java, SQL, Spring,Spring-boot,Hibernate.
 - 📫 How to reach me: tercjakjakub@gmail.com
 
 <!---
